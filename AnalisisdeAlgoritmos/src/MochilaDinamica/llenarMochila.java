@@ -8,7 +8,7 @@ package MochilaDinamica;
 
 /**
  *
- * @author Ismael Cortes
+ * @author Davila
  */
 public class llenarMochila {
     
